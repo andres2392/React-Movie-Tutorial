@@ -1,2 +1,2 @@
 # React-Movie-Tutorial
-React-Movie-Tutorial
+React Movie Tutorial
